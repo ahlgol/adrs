@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "demo-gprc"
+  description: "This is a demo gRPC"
+  annotations:
+    github.com/project-slug: backstage-test/demo-grpc2
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "machop"

@@ -1,0 +1,8 @@
+site_name: "demo-gprc"
+site_description: "This is a demo gRPC"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
