@@ -6,7 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: backstage-test/demo-grpc2
     backstage.io/techdocs-ref: dir:.
-    backstage.io/adr-location: https://github.com/ahlgol/adr-test/blob/main/
+    backstage.io/adr-location: https://github.com/ahlgol/adr-test/tree/main/adrs
 spec:
   type: service
   lifecycle: experimental
